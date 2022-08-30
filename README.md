@@ -1,1 +1,1 @@
-complete bloggers app. created with MongoDB Atlas, Node.js with express, React.js. https://bloggers-app-yuval.web.app/
+complete bloggers app. created with MongoDB Atlas, Node.js with express, React.js. blog.yuvaldeutsch.com
